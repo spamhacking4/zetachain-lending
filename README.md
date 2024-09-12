@@ -1,2 +1,2 @@
-# zetachain-lending
-Developed a decentralized lending and borrowing platform that enables cross-chain asset transfers and collateral management. Users can deposit collateral on one blockchain (e.g., Ethereum) and borrow assets on another blockchain (e.g., Binance Smart Chain, Polygon) using ZetaChain for seamless cross-chain communication. 
+# zetachain-game
+A gaming platform that enables cross-chain players to participate and compete for a common pool of price in the Tic-Tac- Toe game. Users can deposit the playing amount from any blockchain (e.g., Ethereum or Polygon)  to the winning pool on the Zeta Chain and experience a seamless cross-chain gaming experience.
